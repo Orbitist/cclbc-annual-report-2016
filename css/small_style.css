@@ -1,0 +1,38 @@
+@media (max-width: 768px) {
+
+  /* INTRO */
+  .intro {
+    height: 180px;
+  }
+  .intro h1 {
+      padding-top: 60px;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 16px;
+  }
+  .map {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .point-map {
+    height: 800px;
+  }
+
+  .credits img {
+    padding: 20px;
+  }
+
+  .author-profiles p {
+    font-size: 12px;
+  }
+
+  .wgrz {
+    height: 250px !important;
+  }
+
+  .buffalo-point-map {
+    width: 95% !important;
+  }
+
+}

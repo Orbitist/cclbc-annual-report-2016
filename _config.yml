@@ -1,0 +1,18 @@
+
+permalink: :year-:month-:day-:title
+
+highlighter: rouge
+markdown: kramdown
+
+title : Chautauqua County Land Bank 2016 Annual Report
+tagline:
+author :
+  name : Orbitist
+  email : support@orbitist.com
+  web : http://www.orbitist.com
+
+production_url : labs.orbitist.com/cclbc-annual-report-2016
+
+baseurl : http://labs.orbitist.com/cclbc-annual-report-2016
+
+timezone : America/New_York
